@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/RaghavBaheti90/CHATIFY-REAL-TIME-MESSAGING-APP-
+   [git clone https://github.com/RaghavBaheti90/CHATIFY-REAL-TIME-MESSAGING-APP-](https://github.com/RaghavBaheti90/CHATIFY-REAL-TIME-MESSAGING-APP-?tab=readme-ov-file)
 
    ```
 
