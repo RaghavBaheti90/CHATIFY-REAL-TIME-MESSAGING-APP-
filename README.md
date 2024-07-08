@@ -1,12 +1,13 @@
 # ChatMe
 
-ChatMe is a chat application built with Flutter. It allows users to sign up, log in, and chat in real-time.
+ChatMe is a chat application built with Flutter. It allows users to sign up, log in, and chat in real-time. The backend is powered by Firebase, providing a scalable and secure backend solution.
 
 ## Features
 
 - Real-time chat
 - User authentication
 - Sleek UI
+- Backend powered by Firebase
 
 ## Getting Started
 
@@ -16,13 +17,14 @@ To get a local copy up and running follow these simple steps.
 
 - Flutter
 - Dart
+- An active Firebase project
 
 ### Installation
 
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/RaghavBaheti90/CHATIFY-REAL-TIME-MESSAGING-APP-
 
    ```
 
@@ -34,8 +36,4 @@ To get a local copy up and running follow these simple steps.
 
 ## Screenshots
 
-Here are some screenshots of the app:
-
-![Screenshot 1](ScreenShots/screenshot1.jpg)
-![Screenshot 2](ScreenShots/screenshot2.jpg)
-![Screenshot 3](ScreenShots/screenshot3.png)
+- You can see app screenshots from the "ScreenShots" file.
